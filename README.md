@@ -1,5 +1,3 @@
 # Real Time Sign Language Recognition using SSD and MobileNetv2
-This applies Single Shot multi-box Detector (SSD) integrated with mobilenetv2 network for creating and training of model employed with Transfer Learning, with the aim to recognize ASL from user input real time video and then to generate text in English. 
 
-
-The web app deployment of projec tis under progress.
+This project applies (SSD) integrated with mobilenetv2 network for object detection and recognition and the model is trained using Transfer Learning, with the aim to develop a web app for real-time ASL recognition from user input & then to generate text in English. Web App deployment is deployed in React and Flask.
